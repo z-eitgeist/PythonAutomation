@@ -47,6 +47,8 @@ URLShortener.py: Shortens any URL you type into interface
 
 folderCleaner.py: Cleans your Downloads folder, move all files older then 30 day into a seperate folder named old_files so you can delete it easily
 
+sortDownloads.py: Sorts downloaded files into folders by extentions
+
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
